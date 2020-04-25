@@ -1,0 +1,119 @@
+body{
+    text-align:center;
+    font-family:"Microsoft Sans Serif";
+    
+}
+.top{
+    position:relative;
+}
+
+.toptitle{
+    font-weight: 700;
+    top:0px;
+    left:10px;
+    font-size: 30px;
+    color:white;
+    position:absolute;
+   
+}
+
+.top abcd{
+    position: absolute;
+    top:30px;
+    left:330px;
+}
+
+.btn{
+    list-style: none;
+    font-size: 20px;
+    padding:0px 10px 0px 10px;
+    color:white;
+    text-decoration:none;
+    }
+
+.spi{
+    padding-top: 150px;
+    padding-bottom: 150px;
+    text-align: left;
+}
+.spi li{
+    list-style: none;
+    color:darkred;
+    font-size: 30px;
+    padding-bottom: 10px;
+    
+    }
+.about{
+    font-size:30px;
+    color:darkred;      
+}
+.about-main{
+    padding: 20px 70px 0px 70px ;
+    
+}
+.performance{
+    padding-top: 40px;
+    font-size:30px;
+    color:darkred;
+}
+.performance2{
+    padding: 20px 70px 30px 70px ;
+}
+
+.member{
+    padding-top: 40px;
+    font-size:30px;
+    color:darkred;
+}
+.member_item{
+    
+}
+.member_item li{
+    list-style: none;
+    display:inline-block;
+    padding:0px 40px 0px 40px;
+}
+
+.uni{
+    padding-top: 40px;
+    font-size:30px;
+    color:darkred;
+}
+.uni_pic{
+    overflow-x: scroll;
+    white-space: nowrap;
+}
+.unif{display: inline-block;}
+
+.memberbar{
+    background-color:darkred;
+    margin-top: 15px;
+    color:white;
+    padding:20px 10px 1px 10px;
+}
+.memberbar li{ 
+    list-style: none ;
+    display: inline;
+    padding-right: 2px;
+    padding-left: 2px;
+    font-size: 15px;
+}
+.footer{
+    border-top:2px solid darkred;
+    font-size: 20px;
+    margin-top:80px;
+    margin-bottom: 40px;
+}
+.footer p{
+    padding-top:30px;
+}
+textarea{
+    width:400px;
+}
+.footer-submit{
+    background-color: darkred;
+    color:white;
+}
+.footer a{
+    font-size: 15px;
+}
